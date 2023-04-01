@@ -342,7 +342,7 @@
   .h_hamburger {
     position: fixed;
     top: 15px;
-    right: 25px;
+    right: 10px;
     width: 30px;
     height: 30px;
     display: block;
