@@ -288,7 +288,7 @@
     width: 285px;
     background-size: 18px 13px;
     top: -15px;
-    left: -50px;
+    left: -55px;
   }
   .hero-title-lower {
     width: 50px;
@@ -297,7 +297,7 @@
     margin-top: 10px;
   }
   .hero-sub-title {
-    margin-left: -45px;
+    margin-left: -50px;
     font-size: 0.6rem;
     height: 60%;
   }
